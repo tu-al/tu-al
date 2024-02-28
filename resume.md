@@ -1,3 +1,5 @@
-﻿Alexander Tu
+Alexander Tu
 
-Northeastern University - Data Science B.S.
+Northeastern University - Graduating Class of 2027 - Data Science B.S.
+
+
