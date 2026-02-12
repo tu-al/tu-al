@@ -1,4 +1,4 @@
-### Hi there 👋
+### 3rd year Data Science student at Northeastern University
 
 <!--
 **tu-al/tu-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
